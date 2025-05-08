@@ -1,0 +1,23 @@
+[
+    {
+        "name": "aZoXer",
+        "password": "SHA256$202322861c210d68b7e71e6cc8a97f1e$831199641c9ad39bcd0fb13a8bcff11c5ae6f6c6ad5f925fa7d5e7a19f3ea0ea',NULL,NULL,1733680541341",
+        "ip": "91.126.177.87",
+        "server": "Artic",
+        "serverip": "artic.lat"
+    },
+    {
+        "name": "IllegalIntegrity",
+        "password": "1234",
+        "ip": "83.38.219.138",
+        "server": "Artic",
+        "serverip": "artic.lat"
+    },
+    {
+        "name": "Z_Ziuss",
+        "password": "moha22",
+        "ip": "91.126.177.87",
+        "server": "Artic",
+        "serverip": "artic.lat"
+    }
+]
